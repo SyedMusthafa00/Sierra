@@ -1,0 +1,8 @@
+{
+    "SYN_CAP_JAVA": {
+      "target":  {
+        "object": "MARA - General Material Data",
+        "schema": "DBADMIN"
+      }
+    }
+}

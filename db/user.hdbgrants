@@ -1,0 +1,10 @@
+{
+    "UserCAP": {
+      "object_owner" : {
+        "roles" : ["CPA_ROLE" ]
+      },
+      "application_user" : {
+        "roles" : ["CPA_ROLE" ]
+      }
+    }
+}
